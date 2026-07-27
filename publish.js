@@ -52,7 +52,7 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://52baoliao.pages.dev',
-	'https://52baoliao.github.io/',
+	'https://52baoliao1.github.io/',
 ];
 var foreverUrls = [
 	  'https://52baoliao.net',
