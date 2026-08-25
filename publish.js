@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'/', 
-	'/', 
-    '/',
+	'dnpgqxkpy.com/', 
+	'dnpgqxkpy.com/', 
+    'dnpgqxkpy.com/',
 ];                                                                                                                  
 
 var JumpPage="https://baoliao.io";
