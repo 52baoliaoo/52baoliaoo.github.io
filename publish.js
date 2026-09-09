@@ -39,10 +39,10 @@ var emails = [
 var urls=[
 	'dnpgqxkpy.com/', 
 	'dnpgqxkpy.com/', 
-    'dnpgqxkpy.com/',
+    'iujtflfp.com/',
 ];                                                                                                                  
 
-var JumpPage="https://baoliao.io";
+var JumpPage="https://rcwekisk.cc";
 
 var newestUrls = [];
 
